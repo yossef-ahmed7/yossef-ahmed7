@@ -59,6 +59,6 @@ I'm passionate about web development and enjoy building responsive websites whil
 
 ## 📫 Connect with Me
 
-- GitHub: github.com/yossefdiab07-byte
+- GitHub: github.com/yossef-ahmed7
 
 Thanks for visiting my profile! 🚀
